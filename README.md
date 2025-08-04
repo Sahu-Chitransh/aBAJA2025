@@ -42,5 +42,4 @@ The perception system includes:
 
 ---
 
-## 📁 Folder Structure
 
